@@ -1,0 +1,10 @@
+{
+  "name": "order",
+  "path": "be/order",
+  "type": "python",
+  "releases": [],
+  "unreleased": [],
+  "changeLockPath": "be/order/.changelock",
+  "changelogPath": "be/order/CHANGELOG.md",
+  "repository": "https://github.com/pawelszmv/monorepo-release-manager-demo"
+}

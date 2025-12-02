@@ -1,0 +1,10 @@
+{
+  "name": "web",
+  "path": "fe/web",
+  "type": "react",
+  "releases": [],
+  "unreleased": [],
+  "changeLockPath": "fe/web/.changelock",
+  "changelogPath": "fe/web/CHANGELOG.md",
+  "repository": "https://github.com/pawelszmv/monorepo-release-manager-demo"
+}

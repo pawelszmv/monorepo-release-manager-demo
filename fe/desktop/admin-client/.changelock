@@ -1,0 +1,10 @@
+{
+  "name": "admin-client",
+  "path": "fe/desktop/admin-client",
+  "type": "electron",
+  "releases": [],
+  "unreleased": [],
+  "changeLockPath": "fe/desktop/admin-client/.changelock",
+  "changelogPath": "fe/desktop/admin-client/CHANGELOG.md",
+  "repository": "https://github.com/pawelszmv/monorepo-release-manager-demo"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mobile",
+  "path": "fe/mobile",
+  "type": "react-native",
+  "releases": [],
+  "unreleased": [],
+  "changeLockPath": "fe/mobile/.changelock",
+  "changelogPath": "fe/mobile/CHANGELOG.md",
+  "repository": "https://github.com/pawelszmv/monorepo-release-manager-demo"
+}

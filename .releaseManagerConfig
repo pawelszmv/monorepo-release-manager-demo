@@ -1,0 +1,13 @@
+{
+  "repository": "https://github.com/pawelszmv/monorepo-release-manager-demo",
+  "ChangeLockPaths": [
+    "be/auth/.changelock",
+    "be/order/.changelock",
+    "be/payment/.changelock",
+    "fe/desktop/admin-client/.changelock",
+    "fe/desktop/manager-client/.changelock",
+    "fe/mobile/.changelock",
+    "fe/web/.changelock"
+  ],
+  "releaseManagerConfigPath": ".releaseManagerConfig"
+}

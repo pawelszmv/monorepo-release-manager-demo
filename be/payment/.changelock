@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "path": "be/payment",
+  "type": "java",
+  "releases": [],
+  "unreleased": [],
+  "changeLockPath": "be/payment/.changelock",
+  "changelogPath": "be/payment/CHANGELOG.md",
+  "repository": "https://github.com/pawelszmv/monorepo-release-manager-demo"
+}

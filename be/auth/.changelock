@@ -1,0 +1,10 @@
+{
+  "name": "auth",
+  "path": "be/auth",
+  "type": "go",
+  "releases": [],
+  "unreleased": [],
+  "changeLockPath": "be/auth/.changelock",
+  "changelogPath": "be/auth/CHANGELOG.md",
+  "repository": "https://github.com/pawelszmv/monorepo-release-manager-demo"
+}
