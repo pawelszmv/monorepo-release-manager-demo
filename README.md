@@ -1,4 +1,4 @@
-# Monorepo Release Manager
+# Monorepo Release Manager Demo
 
 Purpose
 - This repository is a small monorepo used to validate integration goals for the Release Manager tool. https://github.com/moveaxlab/release-manager
