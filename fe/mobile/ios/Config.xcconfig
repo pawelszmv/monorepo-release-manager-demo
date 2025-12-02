@@ -1,0 +1,6 @@
+// iOS build settings used to hold version/build values
+APP_VERSION = 0.1.0
+APP_BUILD = 1
+
+// In Xcode you can reference $(APP_VERSION) and $(APP_BUILD) to set
+// VERSION and BUILD_NUMBER (e.g. in Info.plist or project settings).
