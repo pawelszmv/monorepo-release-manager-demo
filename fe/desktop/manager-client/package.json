@@ -1,0 +1,14 @@
+{
+  "name": "manager-client",
+  "version": "0.1.0",
+  "description": "Simple Electron manager desktop client (minimal)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}
