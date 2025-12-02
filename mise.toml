@@ -1,0 +1,3 @@
+[tools]
+go = "1.24.1"
+"go:github.com/moveaxlab/release-manager" = "0.7.0-beta.2"

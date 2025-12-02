@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "payment",
   "path": "be/payment",
   "type": "java",
   "releases": [],
