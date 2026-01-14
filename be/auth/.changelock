@@ -14,11 +14,18 @@
         "hello there ",
         "testing "
       ]
+    },
+    {
+      "version": "0.1.0",
+      "parent": "0.0.1",
+      "parentCommitId": "fcc05ca6b8df4fd5b5e28ae8d2dfd8c5d6c9792c",
+      "date": "2026-01-14T11:29:17.646932786+01:00",
+      "notes": [
+        "adding more notes"
+      ]
     }
   ],
-  "unreleased": [
-    "adding more notes"
-  ],
+  "unreleased": [],
   "changeLockPath": "be/auth/.changelock",
   "changelogPath": "be/auth/CHANGELOG.md",
   "repository": "https://github.com/pawelszmv/monorepo-release-manager-demo"
