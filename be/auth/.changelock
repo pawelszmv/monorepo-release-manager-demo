@@ -16,7 +16,9 @@
       ]
     }
   ],
-  "unreleased": [],
+  "unreleased": [
+    "adding more notes"
+  ],
   "changeLockPath": "be/auth/.changelock",
   "changelogPath": "be/auth/CHANGELOG.md",
   "repository": "https://github.com/pawelszmv/monorepo-release-manager-demo"
