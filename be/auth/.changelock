@@ -2,14 +2,21 @@
   "name": "auth",
   "path": "be/auth",
   "type": "go",
-  "releases": [],
-  "unreleased": [
-    "some very important release notes for auth service ",
-    "yes it is very important ",
-    "another note",
-    "hello there ",
-    "testing "
+  "releases": [
+    {
+      "version": "0.0.1",
+      "parentCommitId": "da0bbe486fbcf9c72ca991f48c8d9d9bdee4945b",
+      "date": "2026-01-14T11:28:29.968148724+01:00",
+      "notes": [
+        "some very important release notes for auth service ",
+        "yes it is very important ",
+        "another note",
+        "hello there ",
+        "testing "
+      ]
+    }
   ],
+  "unreleased": [],
   "changeLockPath": "be/auth/.changelock",
   "changelogPath": "be/auth/CHANGELOG.md",
   "repository": "https://github.com/pawelszmv/monorepo-release-manager-demo"
