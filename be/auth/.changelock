@@ -3,7 +3,10 @@
   "path": "be/auth",
   "type": "go",
   "releases": [],
-  "unreleased": [],
+  "unreleased": [
+    "some very important release notes for auth service ",
+    "yes it is very important "
+  ],
   "changeLockPath": "be/auth/.changelock",
   "changelogPath": "be/auth/CHANGELOG.md",
   "repository": "https://github.com/pawelszmv/monorepo-release-manager-demo"
